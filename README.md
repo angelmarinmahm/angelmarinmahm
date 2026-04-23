@@ -1,8 +1,13 @@
-# Data Scientist / Software Developer
+# Ángel Marín
+Ciudad de México
 
-### Education
-- Chemical Industrial Engeenier
-- Programming Technician
+## Data Scientist / Software Developer (Jr)
+
+## Education
+### B.S. in Industrial Chemical Engineer – IPN.
+Focus: Numerical Methods, Statistics, Process Optimization.
+### Technical Degree in Programming – CECyT 9 “Juan de Dios Bátiz”.
+Focus: Algorithms, Data Structures, Databases, Web Development.
 
 ### Professional experience
 
