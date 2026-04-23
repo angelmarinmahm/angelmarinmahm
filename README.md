@@ -40,3 +40,9 @@ Focus: Algorithms, Data Structures, Databases, Web Development.
 - Career Accelerator: **Power BI + AI** – DAXUS LATAM (Mar 2026).
 - **Python in Practice** Week – DAXUS LATAM (Apr 2026).
 - **Project Management & Agile Methodology Foundations** – (Aug 2025).
+
+![Curso de Python](/assets/img/cpython.png)
+![Curso de Power BI](/assets/img/powerbi.png)
+![Curso de Agile](/assets/img/agile.png)
+
+**Email:** angel.marin.mahm@gmail.com | **LinkedIn:** [linkedin.com/angel-marin-mahm](www.linkedin.com/in/angel-marin-mahm) | GitHub: [/angelmarinmahm](https://github.com/angelmarinmahm/angelmarinmahm)
