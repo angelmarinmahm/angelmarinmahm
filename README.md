@@ -1,3 +1,11 @@
+# Data Scientist / Software Developer
+
+### Education
+- Chemical Industrial Engeenier
+- Programming Technician
+
+### Professional experience
+
 ## Hi there 👋
 
 <!--
