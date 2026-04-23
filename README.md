@@ -1,5 +1,5 @@
 # Ángel Marín
-Ciudad de México
+Mexico City
 
 ## Data Scientist / Software Developer (Jr)
 
