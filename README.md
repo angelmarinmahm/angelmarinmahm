@@ -55,6 +55,6 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 
 ### 📫 Connect with me
 
-<img src="/assets/img/linkedin_logo.png" width="20" title="Linkedin"><b>&emsp;Linkedin</b>&ensp;<a href="https://linkedin.com/angel-marin-mahm">linkedin.com/angel-marin-mahm</a>&emsp;
+<img src="/assets/img/linkedin_logo.png" width="20" title="Linkedin"><b>&emsp;Linkedin</b>&ensp;<a href="www.linkedin.com/in/angel-marin-mahm">linkedin.com/angel-marin-mahm</a>&emsp;
 <img src="/assets/img/gmail_logo.png" width="20" title="Gmail"><b>&emsp;E-mail</b>&ensp;<a href="mailto:angel.marin.mahm@gmail.com">angel.marin.mahm@gmail.com</a>&emsp;
 <img src="/assets/img/github_logo.png" width="20" title="Github"><b>&emsp;Github</b>&ensp;<a href="https://github.com/angelmarinmahm">github.com/angelmarinmahm</a>&emsp;
