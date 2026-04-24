@@ -16,19 +16,9 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | <img src="/assets/img/java_logo.png" width="15" title="Java">Java&emsp;<img src="/assets/img/JavaScript-logo.png" width="15" title="JavaScript">JavaScript&emsp;<img src="/assets/img/python_logo.png" width="15" title="Python">Python&emsp;<img src="/assets/img/sql_logo.png" width="15" title="SQL">SQL&emsp;|
-| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) <img src="/assets/img/HTML_logo.png" width="15" title="HTML 5">HTML 5&emsp;<img src="/assets/img/CSS_logo.png" width="15" title="CSS 3">CSS 3&emsp;|
-
-
-
-
-
-
-
-
-
-
-
-<!--
+| **Frontend** | <img src="/assets/img/HTML_logo.png" width="15" title="HTML 5">HTML 5&emsp;<img src="/assets/img/CSS_logo.png" width="15" title="CSS 3">CSS 3&emsp;|
+| **Tools** | <img src="/assets/img/SAP.png" width="15" title="SAP">SAP&emsp;<img src="/assets/img/powerbi_logo.png" width="15" title="Power BI">Power BI&emsp;<img src="/assets/img/git_logo.png" width="15" title="Git">Git&emsp;|
+| **Methodologies** | `SCRUM` `XP` `Agile Project Management` |
 
 ---
 
@@ -64,6 +54,7 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](/assets/img/linkedin_logo.png)](https://linkedin.com/angel-marin-mahm)
-[![Email](/assets/img/gmail_logo.png)](mailto:angel.marin.mahm@gmail.com)
-[![GitHub](/assets/img/github_logo.png)](https://github.com/angelmarinmahm)
+
+<img src="/assets/img/linkedin_logo.png" width="20" title="Linkedin"><b>Linkedin</b><a href="https://linkedin.com/angel-marin-mahm">linkedin.com/angel-marin-mahm</a>
+<img src="/assets/img/gmail_logo.png" width="20" title="Gmail"><b>Linkedin</b><a href="mailto:angel.marin.mahm@gmail.com">angel.marin.mahm@gmail.co</a>
+<img src="/assets/img/github_logo.png" width="20" title="Github"><b>Linkedin</b><a href="https://github.com/angelmarinmahm">github.com/angelmarinmahm</a>
