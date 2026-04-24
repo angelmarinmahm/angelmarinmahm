@@ -46,9 +46,9 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 
 #### 🏆 Recent Badges
 <p align="left">
-  <img src="/assets/img/cpython.png" width="200" title="Python in Practice">
-  <img src="/assets/img/powerbi.png" width="200" title="Power BI + AI">
-  <img src="/assets/img/agile.png" width="200" title="Agile Foundations">
+  <img src="/assets/img/cpython.png" width="300" title="Python in Practice">
+  <img src="/assets/img/powerbi.png" width="300" title="Power BI + AI">
+  <img src="/assets/img/agile.png" width="300" title="Agile Foundations">
 </p>
 
 ---
