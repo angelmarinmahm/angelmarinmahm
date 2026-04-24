@@ -15,9 +15,9 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Java](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![SQL](https://shields.io) |
-| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
-| **Tools** | ![SAP](https://shields.io) ![Power Bi](https://shields.io) ![Git](https://shields.io) |
+| **Languages** | ![Java](/assets/img/java_logo.png) ![JavaScript](/assets/img/JavaScript_logo.png) ![Python](/assets/img/python.png) ![SQL](/assets/img/sql_logo.png) |
+| **Frontend** | ![HTML5](/assets/img/HTML_logo.png) ![CSS3](/assets/img/CSS_logo.png) |
+| **Tools** | ![SAP](/assets/img/SAP_logo.png) ![Power Bi](/assets/img/powerbi_logo.png) ![Git](/assets/img/git_logo.png) |
 | **Methodologies** | `SCRUM` `XP` `Agile Project Management` |
 
 ---
@@ -54,6 +54,6 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:angel.marin.mahm@gmail.com)
-[![GitHub](https://shields.io)](https://github.com/angelmarinmahm)
+[![LinkedIn](/assets/img/linkedin_logo.png)](https://linkedin.com/angel-marin-mahm)
+[![Email](/assets/img/gmail_logo.png)](mailto:angel.marin.mahm@gmail.com)
+[![GitHub](/assets/img/github_logo.png)](https://github.com/angelmarinmahm)
