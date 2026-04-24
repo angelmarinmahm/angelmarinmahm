@@ -10,7 +10,7 @@ Industrial Chemical Engineer transitioning into tech with a strong technical bac
 Currently seeking a **Junior or Trainee Developer** role to apply my skills in Java, JavaScript, Python, and Data Analytics.
 
 ---
-<!--
+
 ### 🛠 Technical Stack
 
 | Category | Tools |
@@ -19,7 +19,7 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 | **Frontend** | ![HTML5](/assets/img/HTML_logo.png) ![CSS3](/assets/img/CSS_logo.png) |
 | **Tools** | ![SAP](/assets/img/SAP_logo.png) ![Power Bi](/assets/img/powerbi_logo.png) ![Git](/assets/img/git_logo.png) |
 | **Methodologies** | `SCRUM` `XP` `Agile Project Management` |
--->
+<!---->
 
 
 
