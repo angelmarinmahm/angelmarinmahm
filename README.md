@@ -13,7 +13,7 @@
 - **Soft Skills:** Multidisciplinary Teamwork, Adaptability, Proactivity, Organization, Problem-Solving.
 
 
-###Work Experience
+### Work Experience
 
 **Web Developer | Freelance | Aug 2018 – Dec 2018**
 Designed and developed a corporate website by translating requirements from general management and communications departments.
