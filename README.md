@@ -6,14 +6,14 @@
 ## Data Scientist / Software Developer (Jr)
 
 
-## Technical Skills
+### Technical Skills
 - **Languages & Technologies:** Java, JavaScript, Python, HTML/CSS, SQL.
 - **Agile Methodologies:** SCRUM, XP, Agile Project Management.
 - **Tools & Systems:** SAP (P1P Module), LIMS, LabX, Power BI.
 - **Soft Skills:** Multidisciplinary Teamwork, Adaptability, Proactivity, Organization, Problem-Solving.
 
 
-## Work Experience
+###Work Experience
 
 **Web Developer | Freelance | Aug 2018 – Dec 2018**
 Designed and developed a corporate website by translating requirements from general management and communications departments.
@@ -31,14 +31,14 @@ Assessed client satisfaction with deliverables through bi-weekly progress meetin
 - Executed data validation and analysis to ensure integrity in balance sheets.
 
 
-## Education
+### Education
 - **B.S. in Industrial Chemical Engineer – IPN.**
 Focus: Numerical Methods, Statistics, Process Optimization.
 - **Technical Degree in Programming – CECyT 9 “Juan de Dios Bátiz”.**
 Focus: Algorithms, Data Structures, Databases, Web Development.
 
 
-## Additional Training
+### Additional Training
 - Career Accelerator: **Power BI + AI** – DAXUS LATAM (Mar 2026).
 - **Python in Practice** Week – DAXUS LATAM (Apr 2026).
 - **Project Management & Agile Methodology Foundations** – (Aug 2025).
@@ -47,4 +47,4 @@ Focus: Algorithms, Data Structures, Databases, Web Development.
 ![Curso de Power BI](/assets/img/powerbi.png)
 ![Curso de Agile](/assets/img/agile.png)
 
-**Email:** angel.marin.mahm@gmail.com | **LinkedIn:** [linkedin.com/angel-marin-mahm](www.linkedin.com/in/angel-marin-mahm) | GitHub: [/angelmarinmahm](https://github.com/angelmarinmahm/angelmarinmahm)
+**Email:** [angel.marin.mahm@gmail.com](mailto:angel.marin.mahm@gmail.com) | **LinkedIn:** [linkedin.com/angel-marin-mahm](www.linkedin.com/in/angel-marin-mahm) | **GitHub:** [/angelmarinmahm](https://github.com/angelmarinmahm/angelmarinmahm)
