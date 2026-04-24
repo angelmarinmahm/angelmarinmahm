@@ -1,7 +1,6 @@
 # Ángel Marín
 **Mexico City**
 
-![Ángel Marín](/assets/img/circle.png)
 
 ## Data Scientist / Software Developer (Jr)
 
