@@ -15,19 +15,7 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Java JavaScript Python SQL
-| **Frontend** | 
-| **Tools** | 
-| **Methodologies** 
-
-
-
-
-### 🛠 Technical Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | <img src="/assets/img/java_logo.png" width="10" title="Java"> Java <img src="/assets/img/JavaScript-logo.png" width="10" title="JavaScript"> JavaScript <img src="/assets/img/python_logo.png" width="10" title="Python"> Python <img src="/assets/img/sql_logo.png" width="10" title="SQL"> SQL |
+| **Languages** | <img src="/assets/img/java_logo.png" width="10" title="Java"> Java   <img src="/assets/img/JavaScript-logo.png" width="10" title="JavaScript"> JavaScript   <img src="/assets/img/python_logo.png" width="10" title="Python"> Python   <img src="/assets/img/sql_logo.png" width="10" title="SQL"> SQL   |
 
 
 
