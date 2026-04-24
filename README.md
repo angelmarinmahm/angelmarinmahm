@@ -15,8 +15,8 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | <img src="/assets/img/java_logo.png" width="15" title="Java">Java&ensp;<img src="/assets/img/JavaScript-logo.png" width="15" title="JavaScript">JavaScript&nbsp;<img src="/assets/img/python_logo.png" width="15" title="Python">Python&nbsp;<img src="/assets/img/sql_logo.png" width="15" title="SQL">SQL&nbsp;|
-| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
+| **Languages** | <img src="/assets/img/java_logo.png" width="15" title="Java">Java&emsp;<img src="/assets/img/JavaScript-logo.png" width="15" title="JavaScript">JavaScript&emsp;<img src="/assets/img/python_logo.png" width="15" title="Python">Python&emsp;<img src="/assets/img/sql_logo.png" width="15" title="SQL">SQL&emsp;|
+| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) <img src="/assets/img/HTML_logo.png" width="15" title="HTML 5">HTML 5&emsp;<img src="/assets/img/CSS_logo.png" width="15" title="CSS 3">CSS 3&emsp;|
 
 
 
