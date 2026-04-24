@@ -20,6 +20,34 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 | **Tools** | ![SAP](/assets/img/SAP_logo.png) ![Power Bi](/assets/img/powerbi_logo.png) ![Git](/assets/img/git_logo.png) |
 | **Methodologies** | `SCRUM` `XP` `Agile Project Management` |
 
+
+
+
+
+### 🛠 Technical Stack
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | 
+<p align="left">
+  <img src="/assets/img/java_logo.png" width="100" title="Java"> Java
+  <img src="/assets/img/JavaScript_logo.png" width="100" title="JavaScript"> JavaScript
+  <img src="/assets/img/python.png" width="100" title="Python"> Python
+  <img src="/assets/img/sql_logo.png" width="100" title="SQL"> SQL
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### 💼 Relevant Experience
