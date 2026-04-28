@@ -22,6 +22,20 @@ Currently seeking a **Junior or Trainee Developer** role to apply my skills in J
 
 ---
 
+## 🚀 Featured Projects
+
+### [Data Modernization & AWS Migration Pipeline](LINK-A-TU-REPOSITORIO)
+**Tech Stack:** Python (Pandas, Boto3), SQL, AWS (S3, Athena)
+
+*   Developed an end-to-end ETL pipeline to migrate 5,000+ legacy financial records to an AWS Data Lake.
+*   Automated data cleaning and statistical imputation (median-based) to ensure 100% data integrity.
+*   Enabled cloud-native analytics by configuring Amazon Athena for serverless SQL querying.
+*   **Key Achievement:** Transformed raw, "dirty" data into a queryable strategic asset for business decision-making.
+
+[View Project ➔](https://github.com/angelmarinmahm/loan_risk_migration/)
+
+---
+
 ### 💼 Relevant Experience
 
 #### 💻 Web Developer | Freelance 
